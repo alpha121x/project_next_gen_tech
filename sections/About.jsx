@@ -22,20 +22,15 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className="font-extrabold text-white">
-          madness of the metaverse
-        </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        Welcome to <span className="font-extrabold text-white">Next-Gen Tech</span> , your premier destination for cutting-edge IT services.
+         We specialize in delivering comprehensive online solutions that cater to the evolving needs of businesses and individuals alike.
+          Our team of expert <span className="font-extrabold text-white">developers, designers,</span> and <span className="font-extrabold text-white">IT professionals</span>  is dedicated to providing innovative and reliable services, 
+          ranging from web development and design to cloud computing and cybersecurity.
+           At <span className="font-extrabold text-white">Next-Gen Tech</span>, we are committed to excellence and strive to empower our clients 
+           with the latest technological advancements,
+            ensuring they stay ahead in the digital landscape. <span className="font-extrabold text-white">Join us</span> as we drive the future of technology, one project at a time.
       </motion.p>
+
 
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}
