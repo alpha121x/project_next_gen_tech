@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Identify the services you require from our wide range of offerings.',
+  'Engage with our experts to receive a customized plan that aligns with your specific goals.',
+  'Our team will efficiently implement the solutions and provide continuous support to ensure long-term success.',
 ];
 
 export const newFeatures = [
