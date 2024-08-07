@@ -2,27 +2,27 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'Web Development',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'Graphic Designing',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Shopify Services',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Customer Support',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'IT Services',
   },
 ];
 
