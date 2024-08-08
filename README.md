@@ -1,8 +1,32 @@
-# Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+Follow these steps to set up the project locally on your machine.
 
-### [Live Site](https://metaverse-sage-psi.vercel.app/)
+**Prerequisites**
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+Make sure you have the following installed on your machine:
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/adrianhajdin/portfolio.git
+cd portfolio
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
