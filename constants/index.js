@@ -35,34 +35,34 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Enhanced Customization',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Our services now align even more closely with your unique needs',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Faster Delivery Times',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Quicker delivery without sacrificing quality.',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of the Shopify services on our platform soon',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'Excellence is our standard in every project we undertake.',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'With one platform where you can find IT services',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
